@@ -1,0 +1,17 @@
+.div{
+    background-color: black;
+    margin: 0;
+    padding: 20px;
+    width: fit-content;
+    height: 200px;
+
+}
+#h1{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 40px;
+    color: white;
+}
+p{
+    color: white;
+}
